@@ -79,29 +79,30 @@
 
 # sent_id = 5
 # genre_id = expedition
-# text = Стæй йæ уынгæ нæ кæныс, цы кæнын дæ хъæуы, куыд кæнын дæ хъæуы, уый.
+# text = Стæй-йæ уынгæ нæ кæныс, цы кæнын дæ хъæуы, куыд кæнын дæ хъæуы, уый.
 1	Стæй	стæй	ADV	_	_	_	_	_	_
-2	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-3	уынгæ	уынын	VERB	_	VerbForm=Conv	_	_	_	_
-4	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
-5	кæныс	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
-6	,	,	PUNCT	_	_	_	_	_	_
-7	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-8	кæнын	кæнын	VERB	_	VerbForm=Inf	_	_	_	_
-9	дæ	ды	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-10	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-11	,	,	PUNCT	_	_	_	_	_	_
-12	куыд	куыд	ADV	_	PronType=Int	_	_	_	_
-13	кæнын	кæнын	VERB	_	VerbForm=Inf	_	_	_	_
-14	дæ	ды	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-15	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-16	,	,	PUNCT	_	_	_	_	_	_
-17	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-18	.	.	PUNCT	_	_	_	_	_	_
+2	-	-	PUNCT	_	_	_	_	_	_
+3	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+4	уынгæ	уынын	VERB	_	VerbForm=Conv	_	_	_	_
+5	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
+6	кæныс	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
+9	кæнын	кæнын	VERB	_	VerbForm=Inf	_	_	_	_
+10	дæ	ды	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	_
+11	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	куыд	куыд	ADV	_	PronType=Int	_	_	_	_
+14	кæнын	кæнын	VERB	_	VerbForm=Inf	_	_	_	_
+15	дæ	ды	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	_
+16	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
+19	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 6
 # genre_id = expedition
-# text = Æмæ дзы уæд румынтæ æрцардысты, ‘мæ-иу мæн бакодтой сæхимæ, гыццыл нæ уыдтæн, æмæ-иу мын мæ фæдджитæ байдзаг кодтой печенитæй, къафеттæй, уже пасылкæтæ йедтæ, стæй сын йед нæ лæвæрдтой.
+# text = Æмæ дзы уæд румынтæ æрцардысты, ‘мæ-иу мæн бакодтой сæхимæ, гыццыл нæ уыдтæн, æмæ-иу мын мæ фæдджитæ байдзаг кодтой печенитæй, къафеттæй, уже пасылкæтæ йедтæ, стæй сын йед нæ лæвæрдтой, пайки вот эти.
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	дзы	уый	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	уæд	уæд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
@@ -147,7 +148,11 @@
 40	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
 41	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 42	лæвæрдтой	дæттын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-43	.	.	PUNCT	_	_	_	_	_	_
+43	,	,	PUNCT	_	_	_	_	_	_
+44	пайки	пайки	X	_	_	_	_	_	_
+45	вот	вот	X	_	_	_	_	_	_
+46	эти	эти	X	_	_	_	_	_	_
+47	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 7
 # genre_id = radio
@@ -240,7 +245,7 @@
 
 # sent_id = 11
 # genre_id = expedition
-# text = Ирон æвзагæй ацæудзынæ æмæ… æппын дæр æрмæст дæр иунæг дукани уыди, «Зонынад», зæгъгæ, «Наукæ»-дукани, гъе уый дæр нал и, сæхгæдтой йæ.
+# text = Ирон æвзагæй ацæудзынæ æмæ… æппындæр… æрмæстдæр иунæг дукани уыди, «Зонынад», зæгъгæ, «Наукæ»-дукани, гъе уый дæр нал и, сæхгæдтой йæ.
 1	Ирон	ирон	ADJ	_	_	_	_	_	_
 2	æвзагæй	ӕвзаг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 3-4	ацæудзынæ	_	_	_	_	_	_	_	_
@@ -248,37 +253,40 @@
 4	цæудзынæ	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	_
 5	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 6	…	…	PUNCT	_	_	_	_	_	_
+7-8	æппындæр	_	_	_	_	_	_	_	_
 7	æппын	æппын	ADV	_	_	_	_	_	_
 8	дæр	дæр	PART	_	_	_	_	_	_
-9	æрмæст	æрмæст	PART	_	_	_	_	_	_
-10	дæр	дæр	PART	_	_	_	_	_	_
-11	иунæг	иунæг	ADJ	_	_	_	_	_	_
-12	дукани	дукани	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-13	уыди	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-14	,	,	PUNCT	_	_	_	_	_	_
-15	«	«	PUNCT	_	_	_	_	_	_
-16	Зонынад	Зонынад	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-17	»	»	PUNCT	_	_	_	_	_	_
-18	,	,	PUNCT	_	_	_	_	_	_
-19	зæгъгæ	зæгъгæ	SCONJ	_	VerbForm=Conv	_	_	_	_
-20	,	,	PUNCT	_	_	_	_	_	_
-21	«	«	PUNCT	_	_	_	_	_	_
-22	Наукæ	Наукӕ	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-23	»	»	PUNCT	_	_	_	_	_	_
-24	-	-	PUNCT	_	_	_	_	_	_
-25	дукани	дукани	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-26	,	,	PUNCT	_	_	_	_	_	_
-27	гъе	гъе	INTJ	_	_	_	_	_	_
-28	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-29	дæр	дæр	PART	_	_	_	_	_	_
-30	нал	нал	PART	_	Polarity=Neg	_	_	_	_
-31	и	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-32	,	,	PUNCT	_	_	_	_	_	_
-33-34	сæхгæдтой	_	_	_	_	_	_	_	_
-33	с	с	PART	_	_	_	_	_	_
-34	æхгæдтой	æхгæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-35	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-36	.	.	PUNCT	_	_	_	_	_	_
+9	…	…	PUNCT	_	_	_	_	_	_
+10-11	æрмæстдæр	_	_	_	_	_	_	_	_
+10	æрмæст	æрмæст	PART	_	_	_	_	_	_
+11	дæр	дæр	PART	_	_	_	_	_	_
+12	иунæг	иунæг	ADJ	_	_	_	_	_	_
+13	дукани	дукани	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+14	уыди	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	«	«	PUNCT	_	_	_	_	_	_
+17	Зонынад	Зонынад	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+18	»	»	PUNCT	_	_	_	_	_	_
+19	,	,	PUNCT	_	_	_	_	_	_
+20	зæгъгæ	зæгъгæ	SCONJ	_	VerbForm=Conv	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	«	«	PUNCT	_	_	_	_	_	_
+23	Наукæ	Наукӕ	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+24	»	»	PUNCT	_	_	_	_	_	_
+25	-	-	PUNCT	_	_	_	_	_	_
+26	дукани	дукани	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+27	,	,	PUNCT	_	_	_	_	_	_
+28	гъе	гъе	INTJ	_	_	_	_	_	_
+29	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
+30	дæр	дæр	PART	_	_	_	_	_	_
+31	нал	нал	PART	_	Polarity=Neg	_	_	_	_
+32	и	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+33	,	,	PUNCT	_	_	_	_	_	_
+34-35	сæхгæдтой	_	_	_	_	_	_	_	_
+34	с	с	PART	_	_	_	_	_	_
+35	æхгæдтой	æхгæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+36	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+37	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 12
 # genre_id = expedition
@@ -1481,49 +1489,50 @@
 
 # sent_id = 84
 # genre_id = expedition
-# text = Æмæ уый фæстæ кæцыдæр курсы мæ йын гъе уыцы ныхас æрхъуыды кодтон, æмæ та кæддæр æрцыдтæн, æмæ та йæ бафарстон, Шамиль Федорович, зæгъын, скодтат гъе уыцы йед….
+# text = Æмæ уый фæстæ кæцыдæр курсы… мæ йын гъе уыцы ныхас æрхъуыды кодтон, æмæ та кæддæр æрцыдтæн, æмæ та йæ бафарстон, Шамиль Федорович, зæгъын, скодтат гъе уыцы йед….
 1	Æмæ	æмæ	CCONJ	_	_	_	_	_	_
 2	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 3	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 4	кæцыдæр	кæцыдæр	DET	_	PronType=Ind	_	_	_	_
 5	курсы	курс	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
-6	мæ	æмæ	CCONJ	_	_	_	_	_	_
-7	йын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-8	гъе	гъе	INTJ	_	_	_	_	_	_
-9	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
-10	ныхас	ныхас	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-11-12	æрхъуыды	_	_	_	_	_	_	_	_
-11	æр	æр	PART	_	_	_	_	_	_
-12	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-13	кодтон	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-14	,	,	PUNCT	_	_	_	_	_	_
-15	æмæ	æмæ	CCONJ	_	_	_	_	_	_
-16	та	та	PART	_	_	_	_	_	_
-17	кæддæр	кӕддӕр	ADV	_	PronType=Ind	_	_	_	_
-18-19	æрцыдтæн	_	_	_	_	_	_	_	_
-18	æр	æр	PART	_	_	_	_	_	_
-19	цыдтæн	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-20	,	,	PUNCT	_	_	_	_	_	_
-21	æмæ	æмæ	CCONJ	_	_	_	_	_	_
-22	та	та	PART	_	_	_	_	_	_
-23	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-24-25	бафарстон	_	_	_	_	_	_	_	_
-24	ба	ба	PART	_	_	_	_	_	_
-25	фарстон	фæрсын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-26	,	,	PUNCT	_	_	_	_	_	_
-27	Шамиль	Шамиль	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-28	Федорович	Федорович	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-29	,	,	PUNCT	_	_	_	_	_	_
-30	зæгъын	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
-31	,	,	PUNCT	_	_	_	_	_	_
-32-33	скодтат	_	_	_	_	_	_	_	_
-32	с	с	PART	_	_	_	_	_	_
-33	кодтат	кæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	_	_	_	_
-34	гъе	гъе	INTJ	_	_	_	_	_	_
-35	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
-36	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
-37	…	…	PUNCT	_	_	_	_	_	_
-38	.	.	PUNCT	_	_	_	_	_	_
+6	…	…	PUNCT	_	_	_	_	_	_
+7	мæ	æмæ	CCONJ	_	_	_	_	_	_
+8	йын	уый	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+9	гъе	гъе	INTJ	_	_	_	_	_	_
+10	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
+11	ныхас	ныхас	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+12-13	æрхъуыды	_	_	_	_	_	_	_	_
+12	æр	æр	PART	_	_	_	_	_	_
+13	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+14	кодтон	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	æмæ	æмæ	CCONJ	_	_	_	_	_	_
+17	та	та	PART	_	_	_	_	_	_
+18	кæддæр	кӕддӕр	ADV	_	PronType=Ind	_	_	_	_
+19-20	æрцыдтæн	_	_	_	_	_	_	_	_
+19	æр	æр	PART	_	_	_	_	_	_
+20	цыдтæн	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	æмæ	æмæ	CCONJ	_	_	_	_	_	_
+23	та	та	PART	_	_	_	_	_	_
+24	йæ	уый	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+25-26	бафарстон	_	_	_	_	_	_	_	_
+25	ба	ба	PART	_	_	_	_	_	_
+26	фарстон	фæрсын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+27	,	,	PUNCT	_	_	_	_	_	_
+28	Шамиль	Шамиль	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+29	Федорович	Федорович	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+30	,	,	PUNCT	_	_	_	_	_	_
+31	зæгъын	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
+32	,	,	PUNCT	_	_	_	_	_	_
+33-34	скодтат	_	_	_	_	_	_	_	_
+33	с	с	PART	_	_	_	_	_	_
+34	кодтат	кæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	_	_	_	_
+35	гъе	гъе	INTJ	_	_	_	_	_	_
+36	уыцы	уыцы	DET	_	Deixis=Remt|PronType=Dem	_	_	_	_
+37	йед	йед	PRON	_	Case=Nom|Number=Sing	_	_	_	_
+38	…	…	PUNCT	_	_	_	_	_	_
+39	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 85
 # genre_id = radio
