@@ -63,7 +63,15 @@ NOUN,Case=Gen\|Number=Sing | 578 (0.94\%) | 90 (1.13\%) | 64 (0.84\%) |
 1+æнын\#1+одтой | 229 (0.37\%) | 29 (0.37\%) | 27 (0.35\%)|
 1+уыдон\#1+сæ | 217 (0.35\%) | 28 (0.35\%) | 22 (0.29\%)|
 # References
-
+```
+@inproceedings{shatskikh2026ossetic,
+  title={Ossetic-COT: Designing a morphologically annotated corpus and morphological analyzer for Ossetic},
+  author={Shatskikh, Anna and Sorokin, Alexey},
+  booktitle={Computational Linguistics and Intellectual Technologies. Proceedings of the International Conference “Dialogue 2026”},
+  volume={2026},
+  year={2026}
+}
+```
 # Contact
 The dataset was prepared by Anna Shatskikh (anapriselec@gmail.com) under the guidance of Alexey Sorokin and Oleg Belyaev. All questions and comments are welcome.
 # Changelog
